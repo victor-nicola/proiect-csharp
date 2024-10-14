@@ -16,5 +16,11 @@ namespace Nicola_Victor_Ratoni
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormGrila f = new FormGrila();
+            f.Show();
+        }
     }
 }

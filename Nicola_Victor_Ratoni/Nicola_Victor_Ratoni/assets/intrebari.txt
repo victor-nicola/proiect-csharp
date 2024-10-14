@@ -1,0 +1,44 @@
+5
+Unde traiesc mai mult ratonii?
+captivitate
+1
+salbaticie
+0
+In ce tara se gasesc cei mai multi ratoni?
+Romania
+0
+America
+1
+China
+0
+Republica Democrata Congo
+0
+De unde provin ratonii?
+Zimbabwe
+0
+Australia
+0
+Guyana Franceza
+0
+Etiopia
+0
+America
+1
+Cum au ajuns in Europa?
+Transfer pentru crescatorii de blanuri
+1
+Strecurati pe nave
+0
+Adusi de oameni in primul zbor cu avionul
+0
+De aici provin
+0
+Cat traiesc ratonii in captivitate?
+sub 2 ani
+0
+20 de ani
+1
+intre 4 si 20 de ani
+0
+peste 25 de ani
+0

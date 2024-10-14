@@ -36,31 +36,31 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(225, 182);
+            this.button1.Location = new System.Drawing.Point(140, 85);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(190, 33);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Form Informare";
+            this.button1.Text = "Informare";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(225, 232);
+            this.button2.Location = new System.Drawing.Point(140, 135);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(190, 33);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Form Relaxare";
+            this.button2.Text = "Relaxare";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(225, 282);
+            this.button3.Location = new System.Drawing.Point(140, 185);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(190, 33);
             this.button3.TabIndex = 2;
-            this.button3.Text = "Form Testare";
+            this.button3.Text = "Testare";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -70,12 +70,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(1169, 606);
+            this.ClientSize = new System.Drawing.Size(884, 411);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "FormMain";
-            this.Text = "FormMain";
+            this.Text = "Main";
             this.ResumeLayout(false);
 
         }

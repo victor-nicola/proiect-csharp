@@ -1,0 +1,14 @@
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\bin\Debug\Nicola_Victor_Ratoni.exe.config
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\bin\Debug\Nicola_Victor_Ratoni.exe
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\bin\Debug\Nicola_Victor_Ratoni.pdb
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.csprojResolveAssemblyReference.cache
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.FormGrila.resources
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.FormInformare.resources
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.FormMain.resources
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.FormRelaxare.resources
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.FormTestare.resources
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.Properties.Resources.resources
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.csproj.GenerateResource.Cache
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.csproj.CoreCompileInputs.cache
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.exe
+C:\Users\elev.LABS\source\repos\Nicola_Victor_Ratoni\Nicola_Victor_Ratoni\obj\Debug\Nicola_Victor_Ratoni.pdb

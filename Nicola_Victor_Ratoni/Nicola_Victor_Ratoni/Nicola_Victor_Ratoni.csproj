@@ -51,6 +51,12 @@
     <Compile Include="FormGrila.Designer.cs">
       <DependentUpon>FormGrila.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMozaic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMozaic.Designer.cs">
+      <DependentUpon>FormMozaic.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormRelaxare.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMozaic.resx">
+      <DependentUpon>FormMozaic.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormRelaxare.resx">
       <DependentUpon>FormRelaxare.cs</DependentUpon>
